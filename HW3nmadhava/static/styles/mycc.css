@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(219, 9, 156);
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(65, 139, 223);
+    margin: 13px;
+    padding: 3px;
+    margin-left: 30%;
+}
+
+h3{
+    margin-left: 30%;
+}
+
+form{
+font-size: 30px;
+    margin-left: 30%;
+
+}
+
+h3{
+    font-size: 40px;
+}
